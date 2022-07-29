@@ -1,0 +1,6 @@
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Business\bin\Debug\Petzey.Consultation.Business.dll
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Business\bin\Debug\Petzey.Consultation.Business.pdb
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Business\obj\Debug\Petzey.Consultation.Business.csproj.AssemblyReference.cache
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Business\obj\Debug\Petzey.Consultation.Business.csproj.CoreCompileInputs.cache
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Business\obj\Debug\Petzey.Consultation.Business.dll
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Business\obj\Debug\Petzey.Consultation.Business.pdb

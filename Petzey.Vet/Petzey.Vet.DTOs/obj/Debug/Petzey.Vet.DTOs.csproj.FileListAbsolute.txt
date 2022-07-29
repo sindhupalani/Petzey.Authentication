@@ -1,0 +1,6 @@
+C:\Petzey\Petzey.Vet\Petzey.Vet.DTOs\bin\Debug\Petzey.Vet.DTOs.dll
+C:\Petzey\Petzey.Vet\Petzey.Vet.DTOs\bin\Debug\Petzey.Vet.DTOs.pdb
+C:\Petzey\Petzey.Vet\Petzey.Vet.DTOs\obj\Debug\Petzey.Vet.DTOs.csproj.AssemblyReference.cache
+C:\Petzey\Petzey.Vet\Petzey.Vet.DTOs\obj\Debug\Petzey.Vet.DTOs.csproj.CoreCompileInputs.cache
+C:\Petzey\Petzey.Vet\Petzey.Vet.DTOs\obj\Debug\Petzey.Vet.DTOs.dll
+C:\Petzey\Petzey.Vet\Petzey.Vet.DTOs\obj\Debug\Petzey.Vet.DTOs.pdb

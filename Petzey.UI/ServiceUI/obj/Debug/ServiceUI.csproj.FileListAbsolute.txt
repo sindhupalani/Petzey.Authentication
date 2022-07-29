@@ -1,0 +1,6 @@
+C:\Petzey\Petzey.UI\ServiceUI\bin\Debug\ServiceUI.dll
+C:\Petzey\Petzey.UI\ServiceUI\bin\Debug\ServiceUI.pdb
+C:\Petzey\Petzey.UI\ServiceUI\obj\Debug\ServiceUI.csproj.AssemblyReference.cache
+C:\Petzey\Petzey.UI\ServiceUI\obj\Debug\ServiceUI.csproj.CoreCompileInputs.cache
+C:\Petzey\Petzey.UI\ServiceUI\obj\Debug\ServiceUI.dll
+C:\Petzey\Petzey.UI\ServiceUI\obj\Debug\ServiceUI.pdb

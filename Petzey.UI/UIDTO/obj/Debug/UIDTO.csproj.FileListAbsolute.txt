@@ -1,0 +1,6 @@
+C:\Petzey\Petzey.UI\UIDTO\bin\Debug\UIDTO.dll
+C:\Petzey\Petzey.UI\UIDTO\bin\Debug\UIDTO.pdb
+C:\Petzey\Petzey.UI\UIDTO\obj\Debug\UIDTO.csproj.AssemblyReference.cache
+C:\Petzey\Petzey.UI\UIDTO\obj\Debug\UIDTO.csproj.CoreCompileInputs.cache
+C:\Petzey\Petzey.UI\UIDTO\obj\Debug\UIDTO.dll
+C:\Petzey\Petzey.UI\UIDTO\obj\Debug\UIDTO.pdb

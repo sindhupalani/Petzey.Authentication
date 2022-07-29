@@ -1,0 +1,11 @@
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Models\bin\Debug\Petzey.Consultation.Models.dll
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Models\bin\Debug\Petzey.Consultation.Models.pdb
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Models\bin\Debug\Petzey.Pet.Models.dll
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Models\bin\Debug\Petzey.Vet.Models.dll
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Models\bin\Debug\Petzey.Pet.Models.pdb
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Models\bin\Debug\Petzey.Vet.Models.pdb
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Models\obj\Debug\Petzey.Consultation.Models.csproj.AssemblyReference.cache
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Models\obj\Debug\Petzey.Consultation.Models.csproj.CoreCompileInputs.cache
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Models\obj\Debug\Petzey.Consultation.Models.csproj.CopyComplete
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Models\obj\Debug\Petzey.Consultation.Models.dll
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.Models\obj\Debug\Petzey.Consultation.Models.pdb

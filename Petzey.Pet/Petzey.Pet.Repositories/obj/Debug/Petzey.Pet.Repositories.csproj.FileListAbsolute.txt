@@ -1,0 +1,6 @@
+C:\Petzey\Petzey.Pet\Petzey.Pet.Repositories\bin\Debug\Petzey.Pet.Repositories.dll
+C:\Petzey\Petzey.Pet\Petzey.Pet.Repositories\bin\Debug\Petzey.Pet.Repositories.pdb
+C:\Petzey\Petzey.Pet\Petzey.Pet.Repositories\obj\Debug\Petzey.Pet.Repositories.csproj.AssemblyReference.cache
+C:\Petzey\Petzey.Pet\Petzey.Pet.Repositories\obj\Debug\Petzey.Pet.Repositories.csproj.CoreCompileInputs.cache
+C:\Petzey\Petzey.Pet\Petzey.Pet.Repositories\obj\Debug\Petzey.Pet.Repositories.dll
+C:\Petzey\Petzey.Pet\Petzey.Pet.Repositories\obj\Debug\Petzey.Pet.Repositories.pdb

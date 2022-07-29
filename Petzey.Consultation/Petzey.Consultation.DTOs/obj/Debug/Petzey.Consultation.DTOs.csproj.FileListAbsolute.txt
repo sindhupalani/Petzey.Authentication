@@ -1,0 +1,6 @@
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.DTOs\bin\Debug\Petzey.Consultation.DTOs.dll
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.DTOs\bin\Debug\Petzey.Consultation.DTOs.pdb
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.DTOs\obj\Debug\Petzey.Consultation.DTOs.csproj.AssemblyReference.cache
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.DTOs\obj\Debug\Petzey.Consultation.DTOs.csproj.CoreCompileInputs.cache
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.DTOs\obj\Debug\Petzey.Consultation.DTOs.dll
+C:\Petzey\Petzey.Consultation\Petzey.Consultation.DTOs\obj\Debug\Petzey.Consultation.DTOs.pdb

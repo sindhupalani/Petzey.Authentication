@@ -1,0 +1,6 @@
+C:\Petzey\Petzey.Vet\Petzey.Vet.Business\bin\Debug\Petzey.Vet.Business.dll
+C:\Petzey\Petzey.Vet\Petzey.Vet.Business\bin\Debug\Petzey.Vet.Business.pdb
+C:\Petzey\Petzey.Vet\Petzey.Vet.Business\obj\Debug\Petzey.Vet.Business.csproj.AssemblyReference.cache
+C:\Petzey\Petzey.Vet\Petzey.Vet.Business\obj\Debug\Petzey.Vet.Business.csproj.CoreCompileInputs.cache
+C:\Petzey\Petzey.Vet\Petzey.Vet.Business\obj\Debug\Petzey.Vet.Business.dll
+C:\Petzey\Petzey.Vet\Petzey.Vet.Business\obj\Debug\Petzey.Vet.Business.pdb

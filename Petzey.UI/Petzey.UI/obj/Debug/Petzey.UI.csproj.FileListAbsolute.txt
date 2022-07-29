@@ -1,0 +1,6 @@
+C:\Petzey\Petzey.UI\Petzey.UI\bin\Debug\Petzey.UI.dll
+C:\Petzey\Petzey.UI\Petzey.UI\bin\Debug\Petzey.UI.pdb
+C:\Petzey\Petzey.UI\Petzey.UI\obj\Debug\Petzey.UI.csproj.AssemblyReference.cache
+C:\Petzey\Petzey.UI\Petzey.UI\obj\Debug\Petzey.UI.csproj.CoreCompileInputs.cache
+C:\Petzey\Petzey.UI\Petzey.UI\obj\Debug\Petzey.UI.dll
+C:\Petzey\Petzey.UI\Petzey.UI\obj\Debug\Petzey.UI.pdb

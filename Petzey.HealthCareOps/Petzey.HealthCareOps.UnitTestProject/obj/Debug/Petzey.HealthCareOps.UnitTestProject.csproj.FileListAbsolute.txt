@@ -1,0 +1,15 @@
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\bin\Debug\Petzey.HealthCareOps.UnitTestProject.dll
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\bin\Debug\Petzey.HealthCareOps.UnitTestProject.pdb
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\obj\Debug\Petzey.HealthCareOps.UnitTestProject.csproj.AssemblyReference.cache
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\obj\Debug\Petzey.HealthCareOps.UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\obj\Debug\Petzey.HealthCareOps.UnitTestProject.csproj.CopyComplete
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\obj\Debug\Petzey.HealthCareOps.UnitTestProject.dll
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.UnitTestProject\obj\Debug\Petzey.HealthCareOps.UnitTestProject.pdb

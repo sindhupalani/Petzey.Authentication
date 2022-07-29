@@ -1,0 +1,6 @@
+C:\Petzey\Petzey.Pet\Petzey.Pet.Business\bin\Debug\Petzey.Pet.Business.dll
+C:\Petzey\Petzey.Pet\Petzey.Pet.Business\bin\Debug\Petzey.Pet.Business.pdb
+C:\Petzey\Petzey.Pet\Petzey.Pet.Business\obj\Debug\Petzey.Pet.Business.csproj.AssemblyReference.cache
+C:\Petzey\Petzey.Pet\Petzey.Pet.Business\obj\Debug\Petzey.Pet.Business.csproj.CoreCompileInputs.cache
+C:\Petzey\Petzey.Pet\Petzey.Pet.Business\obj\Debug\Petzey.Pet.Business.dll
+C:\Petzey\Petzey.Pet\Petzey.Pet.Business\obj\Debug\Petzey.Pet.Business.pdb

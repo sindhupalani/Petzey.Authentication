@@ -1,0 +1,6 @@
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.DTOs\bin\Debug\Petzey.HealthCareOps.DTOs.dll
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.DTOs\bin\Debug\Petzey.HealthCareOps.DTOs.pdb
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.DTOs\obj\Debug\Petzey.HealthCareOps.DTOs.csproj.AssemblyReference.cache
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.DTOs\obj\Debug\Petzey.HealthCareOps.DTOs.csproj.CoreCompileInputs.cache
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.DTOs\obj\Debug\Petzey.HealthCareOps.DTOs.dll
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.DTOs\obj\Debug\Petzey.HealthCareOps.DTOs.pdb

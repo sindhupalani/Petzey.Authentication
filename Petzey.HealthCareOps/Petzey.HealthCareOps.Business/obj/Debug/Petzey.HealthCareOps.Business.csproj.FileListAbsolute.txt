@@ -1,0 +1,6 @@
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.Business\bin\Debug\Petzey.HealthCareOps.Business.dll
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.Business\bin\Debug\Petzey.HealthCareOps.Business.pdb
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.Business\obj\Debug\Petzey.HealthCareOps.Business.csproj.AssemblyReference.cache
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.Business\obj\Debug\Petzey.HealthCareOps.Business.csproj.CoreCompileInputs.cache
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.Business\obj\Debug\Petzey.HealthCareOps.Business.dll
+C:\Petzey\Petzey.HealthCareOps\Petzey.HealthCareOps.Business\obj\Debug\Petzey.HealthCareOps.Business.pdb
